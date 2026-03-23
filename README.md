@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  $$\color{#C5AFA4}{\text{ um hi guys }}$$
+  $$\color{#C0B7B2}{\text{ c+h always ok? ok }}$$
+  $$\color{#C5AFA4}{\text{ over-sensitive people dni , and if you're weird i do block / hide freely ok }}$$
+  $$\color{#C0B7B2}{\text{ my style is not that consistent , it may vary a lot , please do tell me if mine looks like yours }}$$
+  $$\color{#C5AFA4}{\text{ dont copy my designs }}$$
+</p>
 
-<!--
-**indoukaru/indoukaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  $$\color{#C0B7B2}{\text{ ok }}$$
+  $$\color{#C5AFA4}{\text{ ill update this when im finally not lazy }}$$
+</p>
