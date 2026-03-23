@@ -12,4 +12,5 @@
 <p align="center">
   $$\color{#C0B7B2}{\text{ ok }}$$
   $$\color{#C5AFA4}{\text{ ill update this when im finally not lazy }}$$
+  $$\color{#C0B7B2}{\text{ under 13 or over 22 dni , unless i know you and im okay with it }}$$
 </p>
