@@ -1,6 +1,12 @@
 <p align="center">
    cas   /   jude
-   7teen 
-   audhd   /   dyslexia 
-    overly-sensitive   people   dni   ,   i   block   /   hide   freely
+</p>
+
+<p align="center">
+ audhd   /   dyslexia 
+</p>
+
+
+<p align="center">
+wip
 </p>
