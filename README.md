@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- audhd   /   dyslexia 
+ audhd   .   dyslexia 
 </p>
 
 
