@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-   im not really good at communicating but im rlly nice yes. yes
+   im not really good at communicating and might come off as a bit dry but im rlly nice yes. yes
 </p>
 
 
